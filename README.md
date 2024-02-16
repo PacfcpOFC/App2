@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/pizzaboxer/bloxstrap/blob/main/LICENSE)
 
-Modified Bloxstrap for UWP roblox.
+Modified Bloxstrap for UWP roblox. This time now it is skibidi toilet sigma in ohio kai cenat version!
 
 [More complete description](https://github.com/pizzabloxer/bloxstrap)
 
