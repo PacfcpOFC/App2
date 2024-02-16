@@ -1,0 +1,31 @@
+{
+  "profiles": {
+    "Bloxcrosoft (Launch)": {
+      "commandName": "Project"
+    },
+    "Bloxcrosoft (Quiet Launch)": {
+      "commandName": "Project",
+      "commandLineArgs": "-quiet"
+    },
+    "Bloxcrosoft (Uninstall)": {
+      "commandName": "Project",
+      "commandLineArgs": "-uninstall"
+    },
+    "Bloxcrosoft (Quiet Uninstall)": {
+      "commandName": "Project",
+      "commandLineArgs": "-uninstall -quiet"
+    },
+    "Bloxcrosoft (Menu)": {
+      "commandName": "Project",
+      "commandLineArgs": "-menu"
+    },
+    "Bloxcrosoft (Deeplink)": {
+      "commandName": "Project",
+      "commandLineArgs": "roblox://experiences/start?placeId=95206881"
+    },
+    "Bloxcrosoft (Studio Launch)": {
+      "commandName": "Project",
+      "commandLineArgs": "-ide"
+    }
+  }
+}
